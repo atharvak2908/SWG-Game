@@ -30,46 +30,36 @@ SNAKE WATER GUN GAME Enter s/w/g : g You have chosen Gun whereas, Computer has c
 
 ## 🛠 How to Run
 
-Make sure Python is installed, then:
-
-```bash
+bash
 python snake_water_gun.py
+
 
 > Replace snake_water_gun.py with the actual filename if it's different.
 
+---
 
+## 📁 Files
 
+- snake_water_gun.py — Main Python script for the game
 
 ---
 
-📁 Files
+## ✨ Features
 
-snake_water_gun.py — Main Python script for the game
-
-
-
----
-
-✨ Features
-
-Simple and interactive gameplay
-
-Randomized computer opponent
-
-Lightweight and beginner-friendly Python code
-
-
+- Simple and interactive gameplay  
+- Randomized computer opponent  
+- Lightweight and beginner-friendly Python code
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open source and free to use. Do whatever you like with it!
 
-
 ---
 
-🙋‍♂ Contributing
+## 🙋‍♂ Contributing
 
 Feel free to submit improvements, feature suggestions, or bug fixes. Contributions are welcome!
 
+---
